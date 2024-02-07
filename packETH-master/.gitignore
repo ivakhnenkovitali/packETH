@@ -1,0 +1,16 @@
+Makefile*
+aclocal.m4
+autom4te.cache/
+compile
+config*
+depcomp
+install-sh
+missing
+packETH
+src/*.o
+src/.deps/*
+src/pixmaps.[ch]
+src/ui.[ch]
+cli/*.o
+stamp-h1
+!configure.ac
